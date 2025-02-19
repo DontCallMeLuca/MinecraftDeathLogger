@@ -1,6 +1,6 @@
-# Minecraft Death Logger
+<h1 align="center">✨ Minecraft Death Logger ✨</h1>
 
-###### _Super simple minecraft death logger to make finding your stuff easier_
+<h6 align="center"><em>Super simple minecraft death logger to make finding your stuff easier</em></h6>
 
 ## Features
 - Logs your death location in chat
