@@ -18,10 +18,9 @@
 - PaperMC or Spigot or Bukkit
 
 ## Installation
-I'm too lazy to make a release for this, so I just put the binary
+- I'm too lazy to make a release for this, so I just put the binary
 in the `/bin` directory
-<br>
-You can then just drag and drop it in your server's /Plugins directory
+- You can then just drag and drop it in your server's `/Plugins` directory
 
 ## Notes
 - This plugin was made a long time ago, it should still work fine in later versions though
