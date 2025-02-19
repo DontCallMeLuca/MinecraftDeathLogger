@@ -1,0 +1,8 @@
+name: DeathLogger
+version: '${project.version}'
+main: me.luca.deathlogger.DeathLogger
+api-version: '1.20'
+prefix: Death Logger
+load: STARTUP
+authors: [Luca]
+description: A plugin which logs a player's death position
