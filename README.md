@@ -25,6 +25,7 @@ in the `/bin` directory
 ## Notes
 - This plugin was made a long time ago, it should still work fine in later versions though
 - The original API version supported for this plugin is 1.20
+- Originally I made this because dying and having to screenshot your coordinates is annoying
 
 ## License
 This project uses the `GNU GENERAL PUBLIC LICENSE v3.0` license<br>
